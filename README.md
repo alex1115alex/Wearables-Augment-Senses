@@ -12,3 +12,5 @@
 Circuit.IO link: https://www.circuito.io/app?components=513,10293,360217,985157
 
 2. Upload the code to your ESP32 from arduino ide
+
+3. Build the glasses using the STL files from this Hackaday project: https://hackaday.io/project/12211-arduino-glasses-a-hmd-for-multimeter
